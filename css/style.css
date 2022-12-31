@@ -1,0 +1,20 @@
+
+/* modal style */
+.modalParent{
+  border: 1px solid black;
+  height: 20em;
+  width: 20em;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.modalContent{
+  border: 1px solid black;
+
+}
+
+.modalHide{
+  display: none;
+}
